@@ -1,6 +1,5 @@
 <template>
-  <main>Nudgies</main>
-  <!-- <RouterView /> -->
+  <RouterView />
 </template>
 
 <style scoped>
