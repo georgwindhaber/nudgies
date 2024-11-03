@@ -2,14 +2,14 @@
   "addOns": {
     "common": {
       "name": "Nudgies",
-      "logoUrl": "https://nudgies.netlify.app/nudgies-logo.svg"
+      "logoUrl": "https://nudgies.netlify.app/nudgies-icon.svg"
     },
     "meet": {
       "web": {
         "sidePanelUrl": "https://nudgies.netlify.app/",
-        "addOnOrigins": ["https://nudgies.netlify.app/"],
-        "darkModeLogoUrl": "https://nudgies.netlify.app/nudgies-logo-dark.svg",
-        "logoUrl": "https://nudgies.netlify.app/nudgies-logo.svg",
+        "addOnOrigins": ["https://nudgies.netlify.app"],
+        "darkModeLogoUrl": "https://nudgies.netlify.app/nudgies-icon-dark.svg",
+        "logoUrl": "https://nudgies.netlify.app/nudgies-icon.svg",
         "supportsScreenSharing": false
       }
     }
